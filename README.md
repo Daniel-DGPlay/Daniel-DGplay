@@ -10,10 +10,10 @@
   ##  
 
   <a href="https://github.com/Daniel-DGPlay">
-    <img align="center" alt="DGP-Python" height="200" src="https://github-readme-stats.vercel.app/api?username=Daniel-DGPlay&show_icons=true&theme=tokyonight&rank_icon=github">
+    <img align="center" alt="DGP-Python" height="180" src="https://github-readme-stats.vercel.app/api?username=Daniel-DGPlay&show_icons=true&theme=tokyonight&rank_icon=github">
   </a>
   <a href="https://github.com/dgplayrj-org">
-    <img align="center" alt="DGP-Python" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-DGPlay&theme=tokyonight&layout=compact">
+    <img align="center" alt="DGP-Python" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-DGPlay&theme=tokyonight&layout=compact">
   </a>
   
   ##
