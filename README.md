@@ -1,27 +1,41 @@
-### Olá! Eu sou o Daniel ou DGPlay, como preferir. 👋😊 Atualmente sou estudante, mas espero em breve atuar na área da tecnologia como programador. 👨‍💻
+<div align="center">
 
-<div style="display: inline_block"><br>  
-  <img align="center" alt="DGP-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="DGP-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="DGP-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="DGP-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-  
-  ##  
+# Olá, eu sou o Daniel (DGPlay) 👋
+### Estudante de Tecnologia & Futuro Desenvolvedor de Software
 
-  <a href="https://github.com/Daniel-DGPlay">
-    <img align="center" alt="DGP-Python" height="180" src="https://github-readme-stats.vercel.app/api?username=Daniel-DGPlay&show_icons=true&theme=tokyonight&rank_icon=github">
-  </a>
-  <a href="https://github.com/dgplayrj-org">
-    <img align="center" alt="DGP-Python" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-DGPlay&theme=tokyonight&layout=compact">
-  </a>
-  
-  ##
- 
-<div> 
-  <a href="https://www.youtube.com/c/DVFSTUDIOMix?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>  
-  <a href = "mailto:danielvieiraf907@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/dvf-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  <a href="https://daniel-dgplay.github.io/business-card-DVF/" target="_blank"><img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" target="_blank"></a>  
-  <a href="https://github.com/dgplayrj-org" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dvf-dev/)
+[![Portfolio](https://img.shields.io/badge/Portfólio-100000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://daniel-dgplay.github.io/business-card-DVF/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/DVFSTUDIOMix?sub_confirmation=1)
+[![Email](https://img.shields.io/badge/Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielvieiraf907@gmail.com)
+
+---
+
+### 🚀 Sobre Mim
+
+- 🔭 Desenvolvendo projetos práticos com foco em fundamentos web e scripts de automação.
+- 📚 Expandindo conhecimentos em **Python**, **JavaScript** e ecossistema front-end.
+- 🎯 Objetivo: ingressar no mercado profissional de tecnologia como desenvolvedor júnior.
+
+---
+
+### 💻 Tecnologias & Ferramentas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Daniel-DGPlay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-DGPlay&theme=tokyonight&layout=compact&hide_border=true&bg_color=0d1117" alt="Top Langs" />
+</p>
+
 </div>
